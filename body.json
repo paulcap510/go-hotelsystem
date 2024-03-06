@@ -1,5 +1,8 @@
 {
-    "id": "111",
-    "type": "Luxury Double",
-    "vacant": true
+    "id": "002",
+    "startDate": "2024-05-01",
+    "endDate": "2024-05-20",
+    "name": "Bob Smith",
+    "guests": 2
 }
+
